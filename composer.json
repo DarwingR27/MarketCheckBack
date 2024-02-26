@@ -14,8 +14,9 @@
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.4",
         "maatwebsite/excel": "^3.1",
-        "lcobucci/jwt": "3.4.6",
-        "league/oauth2-server": "8.4.2"
+        "lcobucci/jwt": "^3.4.6",
+        "league/oauth2-server": "^8.4.2"
+        
     },
     "require-dev": {
         "facade/ignition": "^2.5",
